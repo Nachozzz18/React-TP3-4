@@ -1,0 +1,7 @@
+.container {
+    display: grid;
+    justify-content: center;
+    gap: 4px;
+    align-content: center;
+    margin-top: 300px;
+}
